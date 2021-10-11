@@ -1,5 +1,48 @@
 # Credit_Risk_Analysis
 ## Overview
 Apply machine learning to calculate credit risk using LendingClub data.  First, oversample the data using the RandomOverSampler and SMOTE algorithms and undersample the data using the ClusterCentroids algorithm. Then, use a combinatorial approach of over and undersampling using the SMOTEENN algorithm.  Next, compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier. Finally, evaluate the performance of these models and make a recommendation on whether or not they should be used to predict credit risk.
+## Results
+### RandomOverSampler
+• Balanced accuracy score - 0.6468035260322871
 
-I don't recommend any of these unless it is to support loan approval.  I can't predict the future, neither can a computer, and I know from first hand experience that people change.
+• Precision score
+
+• Recall score
+
+### SMOTE
+• Balanced accuracy score - 0.6268900250190362
+
+• Precision score
+
+• Recall score
+
+### ClusterCentroids
+• Balanced accuracy score - 0.5276236750184319
+
+• Precision score
+
+• Recall score
+
+### SMOTEEN
+• Balanced accuracy score - 0.6459876878945736
+
+• Precision score
+
+• Recall score
+
+### BalancedRandomForestClassifier
+• Balanced accuracy score - 0.7223743105664133
+
+• Precision score
+
+• Recall score
+
+### EasyEnsembleClassifier
+• Balanced accuracy score - 0.7499425891680869
+
+• Precision score
+
+• Recall score
+
+## Summary
+
