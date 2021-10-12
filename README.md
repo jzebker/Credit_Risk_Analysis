@@ -5,9 +5,9 @@ Apply machine learning to calculate credit risk using LendingClub data.  First, 
 ### RandomOverSampler
 • Balanced accuracy score - 0.6468035260322871
 
-• Precision score
+• Precision score - ***high_risk:*** .01 ***low_risk:*** 1.00
 
-• Recall score
+• Recall score - ***high_risk:*** .62 ***low_risk:*** .67
 
 • Full scikit report
 
@@ -16,9 +16,9 @@ Apply machine learning to calculate credit risk using LendingClub data.  First, 
 ### SMOTE
 • Balanced accuracy score - 0.6268900250190362
 
-• Precision score
+• Precision score - ***high_risk:*** .01 ***low_risk:*** 1.00
 
-• Recall score
+• Recall score - ***high_risk:*** .61 ***low_risk:*** .64
 
 • Full scikit report
 
@@ -27,9 +27,9 @@ Apply machine learning to calculate credit risk using LendingClub data.  First, 
 ### ClusterCentroids
 • Balanced accuracy score - 0.5276236750184319
 
-• Precision score
+• Precision score - ***high_risk:*** .01 ***low_risk:*** 1.00
 
-• Recall score
+• Recall score - ***high_risk:*** .63 ***low_risk:*** .42
 
 • Full scikit report
 
@@ -38,9 +38,9 @@ Apply machine learning to calculate credit risk using LendingClub data.  First, 
 ### SMOTEEN
 • Balanced accuracy score - 0.6459876878945736
 
-• Precision score
+• Precision score - ***high_risk:*** .01 ***low_risk:*** 1.00
 
-• Recall score
+• Recall score - ***high_risk:*** .71 ***low_risk:*** .58
 
 • Full scikit report
 
@@ -49,9 +49,9 @@ Apply machine learning to calculate credit risk using LendingClub data.  First, 
 ### BalancedRandomForestClassifier
 • Balanced accuracy score - 0.7223743105664133
 
-• Precision score
+• Precision score - ***high_risk:*** .02 ***low_risk:*** 1.00
 
-• Recall score
+• Recall score - ***high_risk:*** .61 ***low_risk:*** .84
 
 • Full scikit report
 
@@ -60,9 +60,9 @@ Apply machine learning to calculate credit risk using LendingClub data.  First, 
 ### EasyEnsembleClassifier
 • Balanced accuracy score - 0.7499425891680869
 
-• Precision score
+• Precision score - ***high_risk:*** .01 ***low_risk:*** 1.00
 
-• Recall score
+• Recall score - ***high_risk:*** .71 ***low_risk:*** .79
 
 • Full scikit report
 
