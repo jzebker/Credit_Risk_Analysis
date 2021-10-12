@@ -60,7 +60,7 @@ Apply machine learning to calculate credit risk using LendingClub data.  First, 
 ### EasyEnsembleClassifier
 • Balanced accuracy score - 0.7499425891680869
 
-• Precision score - ***high_risk:*** .01 ***low_risk:*** 1.00
+• Precision score - ***high_risk:*** .02 ***low_risk:*** 1.00
 
 • Recall score - ***high_risk:*** .71 ***low_risk:*** .79
 
