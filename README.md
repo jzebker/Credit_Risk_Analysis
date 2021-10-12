@@ -9,6 +9,10 @@ Apply machine learning to calculate credit risk using LendingClub data.  First, 
 
 • Recall score
 
+• Full scikit report
+
+<p align="center"><img src="https://github.com/jzebker/Credit_Risk_Analysis/blob/main/img/imbClassReportROS.png?raw=true"></p>
+
 ### SMOTE
 • Balanced accuracy score - 0.6268900250190362
 
